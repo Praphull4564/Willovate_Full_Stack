@@ -61,19 +61,10 @@ Built for businesses such as gyms, salons, restaurants, clinics, coaching center
 
 ---
 
-# Project Structure
-
-```text
-Willovate_Labs/
-│
-├── src/                            # React frontend source
-├── public/                         # Static assets
-├── SmartOfferBooking.API/          # .NET 8 backend
-├── .env.example                    # Frontend environment sample
-└── SmartOfferBooking.API/
-    └── .env.example                # Backend environment sample
-```
-
+FrontEnd_Screenshots/     → Frontend UI previews
+Swagger_Screenshots/      → Swagger API screenshots
+DATABASE_SCHEMA.md        → Database schema details
+README.md                 → Setup and project documentation
 ---
 
 # Local Setup
@@ -81,8 +72,7 @@ Willovate_Labs/
 ## 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-cd YOUR_REPO_NAME
+git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME](https://github.com/Praphull4564/Willovate_Full_Stack.git
 ```
 
 ---
