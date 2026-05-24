@@ -1,0 +1,11 @@
+using System;
+
+namespace SmartOfferBooking.API.Exceptions
+{
+    public class ValidationException : Exception
+    {
+        public ValidationException(string message) : base(message)
+        {
+        }
+    }
+}
